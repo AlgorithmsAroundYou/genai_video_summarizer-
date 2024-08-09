@@ -1,2 +1,2 @@
-# genai_video_summarizer-
+# Genai Video Summarizer
 This Application Summarizes Video Using GenAI 
