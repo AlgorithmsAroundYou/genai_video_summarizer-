@@ -14,7 +14,7 @@ import os
 
 file_path = "faiss_store_openai.pkl"
 status_text = st.empty()
-llm = GoogleGenerativeAI(model = "models/text-bison-001", google_api_key="AIzaSyAuYa6MTdkeX2uFTA4Y_fhZW9lTt33PMqA", temperature=0.5)
+llm = GoogleGenerativeAI(model = "models/text-bison-001", google_api_key="", temperature=0.5)
 
 def text_to_ai(data, language_code): 
     
